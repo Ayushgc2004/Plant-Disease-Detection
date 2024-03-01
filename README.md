@@ -3,7 +3,8 @@ In this project, we have developed a plant disease classification model aimed at
 
 #### The PlantVillage Dataset:
 Dataset Link: https://www.kaggle.com/code/abdulrahmankhaled1/plant-disease-detection/input
- The dataset consists of about 44000 images of plant leaves collected under controlled environmental conditions. The plant images span the following 14 species:
+
+The dataset consists of about 44000 images of plant leaves collected under controlled environmental conditions. The plant images span the following 14 species:
 Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, and Tomato.
 
 The dataset contains a total of 38 classes of plant disease listed below:
