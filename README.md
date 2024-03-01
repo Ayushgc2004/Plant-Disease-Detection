@@ -1,5 +1,5 @@
  ## Plant Disease Detection
-In this project, we have developed a plant disease classification model aimed at assisting concerned agents in identifying types of diseases in plants. By accurately diagnosing plant diseases, timely treatment can be administered, thereby mitigating potential crop losses. Our model utilizes Convolutional Neural Networks (CNN) to achieve high accuracy in disease classification.
+In this project, we have developed a plant disease classification model aimed at assisting concerned agents in identifying types of diseases in plants. By accurately diagnosing plant diseases, timely treatment can be administered, thereby mitigating potential crop losses. Our model utilizes Convolutional Neural Networks (CNN) to achieve high accuracy in disease classification.Convolutional Neural Networks (CNNs) are a class of deep learning models specifically designed for processing and analyzing visual data, such as images. CNNs have revolutionized various computer vision tasks, including image classification, object detection, and image segmentation.
 
 #### The PlantVillage Dataset:
 Dataset Link: https://www.kaggle.com/code/abdulrahmankhaled1/plant-disease-detection/input
