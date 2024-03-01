@@ -27,6 +27,5 @@ Tomato Septoria Leaf Spot	Tomato Two Spotted Spider Mite	Tomato Target Spot	Toma
 Tomato Yellow Leaf Curl Virus	Tomato Healthy		
 
 The sample dataset images are:
-
 ![1111111](https://github.com/Ayushgc2004/Plant-Disease-Detection/assets/136146665/149e7a6a-2cad-470d-a3a9-7fb27324a741)
 
